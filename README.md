@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 
-=======
 ### 菜根社区
 
 ### 资料
@@ -8,4 +6,4 @@
 
 e 
 
->>>>>>> 4e392a2 (extract config from code to properties)
+
