@@ -11,7 +11,7 @@ public class GithubAccessTokenTest {
         OkHttpClient client = new OkHttpClient();
         Request request = new Request.Builder()
                 .url("https://api.github.com/user")
-                .header("Authorization", "token " + "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")
+                .header("Authorization", "token " + "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")
                 .build();
         try {
             Response response = client.newCall(request).execute();
